@@ -24,3 +24,6 @@ Structures the output of each container
 ### `docker-compose down`
 
 Stops and removes each container
+
+
+![3](https://user-images.githubusercontent.com/102901313/174973070-d43f0ee6-1df0-44f8-b74d-f1563a4dfe2c.png)
